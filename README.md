@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Tsani👋
 
 <!--
 **iamTsani/iamTsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![ghipy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lydHkyNmZkb2xmbGprZDJjNmUwMHA1YXkyM2Vhem9qMng5NXpvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+
+- 🎓 I’m a Informatics Student at Universitas Nahdlatul Ulama Yogyakarta
+- 🌱 I’m currently learning Frontend (React) and Machine Learning
