@@ -19,7 +19,8 @@
 ##### My Github Stats
 ![Tsani GitHub stats](https://github-readme-stats.vercel.app/api?username=iamTsani&show_icons=true) -->
 
-#### Hi, I'm Tsani👋<br><br>- 🎓 I’m a Informatics Student at Universitas Nahdlatul Ulama Yogyakarta<br>- 🌱 I’m currently learning Frontend (React) and Machine Learning<br>
+## Hi, I'm Tsani👋
+- 🎓 I’m a Informatics Student at Universitas Nahdlatul Ulama Yogyakarta<br>- -🌱 I’m currently learning Frontend (React) and Machine Learning<br>
 
 
 ##### Socials:
